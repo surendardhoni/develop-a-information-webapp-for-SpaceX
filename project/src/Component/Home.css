@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    /* background-color: darkturquoise; */
+    background-color: #8d8d4d5e;
+}
+p a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.background{
+    background-image:url("../Images/rocket.png");
+    height: 1000px;
+}
+p a:hover{
+    color: aliceblue;
+}

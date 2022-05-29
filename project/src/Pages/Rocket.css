@@ -1,0 +1,61 @@
+.rocket{
+    background-color: rgb(163, 236, 236);
+    /* background-image: url('../Images/rocketback.jpg'); */
+    /* background-repeat: no-repeat; */
+    height: 655px;
+}
+.rocketsection{
+    display: flex;
+    justify-content: space-around;
+     padding-top: 100px; 
+     margin-left: 100px;
+}
+.search{
+    margin-top:80px;
+    margin-left: 75%;
+}
+.img-sec{
+    width: 200px;
+    height: 200px;
+}
+.rocket_color{
+    background-color: paleturquoise;
+    height: 655px;
+    text-align: center;
+}
+.rocket_center{
+    padding-top: 100px;
+}
+/* button{
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: dimgrey;
+    cursor: pointer;
+    margin-left: 60px;
+} */
+.rocket p{
+    /* margin-left: 60px; */
+    text-align: center;
+
+}
+.btn{
+    margin-left: 50px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(92,5,5);
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aliceblue;
+    color: crimson;
+}
+img:hover{
+    transform: scale(1.2)
+}
+img{
+    cursor: pointer;
+}

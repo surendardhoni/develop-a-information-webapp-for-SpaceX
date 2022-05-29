@@ -1,0 +1,13 @@
+.btn3{
+    margin-left: 30px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(92,5,5);
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+.historyback{
+    background-color: aquamarine;
+}
